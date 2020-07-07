@@ -1,4 +1,3 @@
 # hello-world
 learning git
-wohoo!!learning git...
-once more
+wohoo!!learning git...once more please
